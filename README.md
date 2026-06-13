@@ -2,7 +2,6 @@
 
 **First-principles optimal control analysis of antimicrobial resistance using Pontryagin's Maximum Principle, calibrated to real ECDC surveillance data.**
 
-[*Manuscript under review*]
 
 ---
 
@@ -83,7 +82,7 @@ The processed dataset is at `data/processed/ecdc_amr_real.csv`. Original ECDC CS
 ## Installation
 
 ```bash
-git clone https://github.com/[username]/amr-optimal-control.git
+git clone https://github.com/hmjpan/amr-optimal-control.git
 cd amr-optimal-control
 pip install -r requirements.txt
 ```
