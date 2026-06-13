@@ -1,0 +1,16 @@
+{
+  "train_period": "2006-2019",
+  "test_period": "2023-2024",
+  "n_train": 14,
+  "n_test": 2,
+  "mech_rmse": 0.031041501969604854,
+  "mech_mae": 0.02836382251414782,
+  "persistence_rmse": 0.03492745273931343,
+  "persistence_mae": 0.03256768160000004,
+  "historical_mean_rmse": 0.04247014770217478,
+  "historical_mean_mae": 0.04055170003571429,
+  "logistic_rmse": 0.06007459809035607,
+  "logistic_mae": 0.05873401285166083,
+  "linear_rmse": 0.2579771883200577,
+  "linear_mae": 0.2566504960726375
+}
